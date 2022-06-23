@@ -1,6 +1,6 @@
 # **Zadání pro pohovor**
 
-Pokuste se vypracovat oba níže popsané úkoly a řešení commitnout do větve **zimmermann**.
+Pokuste se vypracovat oba níže popsané úkoly a řešení zaslat jako pull-request k tomuto repository.
 
 ## **První úkol (.NET: C# nebo VB):**
 -  Napište funkci pro dohledání specifických souborů ve filesystému viz předpis:
