@@ -1,0 +1,60 @@
+StatusID 	IconName                	Name                                        	BoxXPos 	BoxYPos 	BoxWidth 	BoxHeight 	Enabled 	Description 	RevNumID 	BlockRights 	WorkflowID 	StatusType 	RevisionVarID
+       1 	NULL                    	Ingen Status                                	      0 	      0 	       0 	        0 	      0 	1           	NULL     	          0 	         1 	         3 	NULL
+       2 	NULL                    	Alla Statusar                               	      0 	      0 	       0 	        0 	      0 	1           	NULL     	          0 	         1 	         3 	NULL
+       3 	NULL                    	NULL                                        	      0 	      0 	       0 	        0 	      1 	NULL        	NULL     	          0 	         1 	         1 	NULL
+       4 	NULL                    	NULL                                        	      0 	      0 	       0 	        0 	      1 	NULL        	NULL     	          0 	         1 	         1 	NULL
+       5 	NULL                    	NULL                                        	      0 	      0 	       0 	        0 	      1 	NULL        	NULL     	          0 	         1 	         1 	NULL
+       6 	NULL                    	NULL                                        	      0 	      0 	       0 	        0 	      1 	NULL        	NULL     	          0 	         1 	         1 	NULL
+       7 	NULL                    	NULL                                        	      0 	      0 	       0 	        0 	      1 	NULL        	NULL     	          0 	         1 	         1 	NULL
+       8 	NULL                    	NULL                                        	      0 	      0 	       0 	        0 	      1 	NULL        	NULL     	          0 	         1 	         3 	NULL
+       9 	IDI_STATUS_ICON1        	Čekání na potvrzení změny                   	    277 	    684 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      10 	IDI_STATUS_ICON14       	Upravováno                                  	    281 	     17 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      11 	IDI_STATUS_ICON1        	Čeká na schválení                           	    322 	    168 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      12 	IDI_STATUS_ICON14       	Změněno                                     	    280 	    510 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      13 	IDI_STATUS_ICON9        	Schváleno                                   	    281 	    343 	     210 	       55 	      1 	            	1        	          0 	         2 	         3 	52
+      14 	NULL                    	                                            	      0 	      0 	       0 	        0 	      1 	NULL        	NULL     	          0 	         1 	         1 	NULL
+      15 	IDI_DEFAULT_STATUS_ICON 	KSK2                                        	   1347 	    739 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      16 	IDI_DEFAULT_STATUS_ICON 	KSK1                                        	   1345 	    805 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      17 	IDI_DEFAULT_STATUS_ICON 	KSKTEST                                     	   1349 	    669 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      18 	IDI_DEFAULT_STATUS_ICON 	REV                                         	   1350 	    601 	     210 	       55 	      1 	            	1        	          0 	         2 	         3 	NULL
+      19 	IDI_DEFAULT_STATUS_ICON 	Návrh                                       	    253 	     85 	     210 	       55 	      1 	            	NULL     	          0 	         3 	         3 	NULL
+      20 	IDI_DEFAULT_STATUS_ICON 	Platná dokumentace                          	    244 	    750 	     210 	       55 	      1 	            	NULL     	          0 	         3 	         3 	NULL
+      21 	IDI_DEFAULT_STATUS_ICON 	Opravit                                     	    697 	    369 	     210 	       55 	      1 	            	NULL     	          0 	         3 	         3 	NULL
+      22 	IDI_DEFAULT_STATUS_ICON 	Schválení technologem                       	    243 	    579 	     210 	       55 	      1 	            	NULL     	          0 	         3 	         3 	NULL
+      23 	IDI_DEFAULT_STATUS_ICON 	Po exportu                                  	    241 	    364 	     210 	       55 	      1 	            	NULL     	          0 	         3 	         3 	NULL
+      24 	IDI_DEFAULT_STATUS_ICON 	Schválení                                   	    598 	    218 	     210 	       55 	      1 	            	NULL     	          0 	         3 	         3 	NULL
+      25 	IDI_DEFAULT_STATUS_ICON 	Chain 2                                     	    752 	    290 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      26 	IDI_DEFAULT_STATUS_ICON 	Chain 1                                     	    750 	    163 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      27 	IDI_DEFAULT_STATUS_ICON 	loop state                                  	     61 	     92 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      28 	IDI_DEFAULT_STATUS_ICON 	Chain 3                                     	    753 	    434 	     210 	       55 	      1 	            	NULL     	          0 	         2 	         3 	NULL
+      29 	IDI_DEFAULT_STATUS_ICON 	initial                                     	     54 	     65 	     516 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      42 	IDI_DEFAULT_STATUS_ICON 	merging                                     	    455 	   1235 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      43 	IDI_DEFAULT_STATUS_ICON 	err                                         	    995 	    354 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      44 	IDI_DEFAULT_STATUS_ICON 	Schválení / návrh / jiný stav před exportem 	    467 	    113 	     462 	       55 	      1 	            	NULL     	          0 	         5 	         3 	NULL
+      45 	IDI_DEFAULT_STATUS_ICON 	Platná dokumentace                          	    468 	    657 	     470 	       55 	      1 	            	NULL     	          0 	         5 	         3 	NULL
+      46 	IDI_DEFAULT_STATUS_ICON 	po exportu                                  	    489 	    451 	     263 	       55 	      1 	            	NULL     	          0 	         5 	         3 	NULL
+      47 	IDI_DEFAULT_STATUS_ICON 	oprava exportu                              	    925 	    278 	     210 	       55 	      1 	            	NULL     	          0 	         5 	         3 	NULL
+      48 	IDI_DEFAULT_STATUS_ICON 	před exportem                               	    489 	    281 	     263 	       55 	      1 	            	NULL     	          0 	         5 	         3 	NULL
+      49 	IDI_DEFAULT_STATUS_ICON 	l                                           	    383 	    240 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      50 	IDI_STATUS_ICON6        	DESIGN                                      	    388 	     71 	     210 	       55 	      1 	            	NULL     	          0 	         6 	         3 	NULL
+      51 	IDI_STATUS_ICON10       	FIX                                         	    676 	    406 	     210 	       55 	      1 	            	NULL     	          0 	         6 	         3 	NULL
+      52 	IDI_STATUS_ICON15       	UNFINISHED EXPORT                           	    394 	    405 	     210 	       55 	      1 	            	NULL     	          0 	         6 	         3 	NULL
+      53 	IDI_STATUS_ICON1        	BEFORE EXPORT                               	    391 	    254 	     210 	       55 	      1 	            	NULL     	          0 	         6 	         3 	NULL
+      54 	IDI_DEFAULT_STATUS_ICON 	CHANGE                                      	    119 	    404 	     210 	       55 	      1 	            	NULL     	          0 	         6 	         3 	NULL
+      55 	IDI_STATUS_ICON14       	PRODUCTION FIX                              	    389 	    911 	     210 	       55 	      1 	            	NULL     	          0 	         6 	         3 	NULL
+      56 	IDI_STATUS_ICON9        	PRODUCTION                                  	    389 	    755 	     210 	       55 	      1 	            	NULL     	          0 	         6 	         3 	NULL
+      57 	IDI_STATUS_ICON34       	TECHNOLOGY                                  	    391 	    568 	     210 	       55 	      1 	            	NULL     	          0 	         6 	         3 	NULL
+      58 	IDI_DEFAULT_STATUS_ICON 	Split-B                                     	   2207 	    321 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      59 	IDI_DEFAULT_STATUS_ICON 	Split-A                                     	   1848 	    323 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      30 	IDI_DEFAULT_STATUS_ICON 	unbalanced tree c                           	   1117 	   1137 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      31 	IDI_DEFAULT_STATUS_ICON 	unbalanced tree b                           	   1115 	   1030 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      32 	IDI_DEFAULT_STATUS_ICON 	unbalanced tree state a                     	    763 	   1028 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      33 	IDI_DEFAULT_STATUS_ICON 	unbalanced tree                             	    414 	   1030 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      34 	IDI_DEFAULT_STATUS_ICON 	balanced tree state c                       	   1109 	    932 	     218 	       55 	      0 	            	NULL     	          0 	         4 	         3 	NULL
+      35 	IDI_DEFAULT_STATUS_ICON 	balanced tree state b                       	   1111 	    820 	     216 	       55 	      0 	            	NULL     	          0 	         4 	         3 	NULL
+      36 	IDI_DEFAULT_STATUS_ICON 	efter export                                	    764 	    818 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      37 	IDI_DEFAULT_STATUS_ICON 	chain state a                               	    763 	    657 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      38 	IDI_DEFAULT_STATUS_ICON 	simple                                      	    412 	    354 	     210 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      39 	IDI_DEFAULT_STATUS_ICON 	after check                                 	    351 	    815 	     219 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      40 	IDI_DEFAULT_STATUS_ICON 	chain                                       	    405 	    656 	     219 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
+      41 	IDI_DEFAULT_STATUS_ICON 	loop                                        	    408 	    495 	     215 	       55 	      1 	            	NULL     	          0 	         4 	         3 	NULL
