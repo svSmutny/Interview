@@ -1,6 +1,7 @@
 # **Zadání pro pohovor**
 
 Pokuste se vypracovat oba níže popsané úkoly a řešení zaslat jako pull-request k tomuto repository.
+Pokud by se vám nepodařilo pull-request založit, nebo by vyvstaly jakékoliv jiné nejasnosti neváhejte mě kontaktovat, rád pomohu.
 
 ## **První úkol (.NET: C# nebo VB):**
 -  Napište funkci pro dohledání specifických souborů ve filesystému viz předpis:
